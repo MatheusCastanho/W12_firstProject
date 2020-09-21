@@ -1,0 +1,48 @@
+﻿
+@model Projeto.Models.Proxy.RepositoriesProxy
+
+@{ViewData["Title"] = "Repositório: "+Model.Name;}
+         
+<div id="voltar">
+    <a href="@Url.Action("Index")">Voltar</a>
+</div>
+<br>
+
+<div>
+    <label>Nome do Projeto:</label>
+    @Model.Full_Name
+    
+</div>
+<br>
+<div>
+    <label>Nome: </label>
+    @Model.Name
+</div>
+<br>
+<div>
+    <label>Descrição: </label>
+    @Model.Description
+</div>
+<br>
+<div>
+    <label>Linguagem: </label>
+    @Model.Language
+</div>
+<br>
+<div>
+    <label>Data de Atualização: </label>
+    @Model.updated_at.ToString("dd/MM/yyyy hh:mm")
+</div>
+<br>
+<div>
+    <label>Dono do Repositório: </label>
+    @Model.Owner.Login
+</div>
+
+
+
+
+
+
+
+

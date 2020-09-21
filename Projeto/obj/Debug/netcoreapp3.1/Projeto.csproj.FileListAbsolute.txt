@@ -1,0 +1,80 @@
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/appsettings.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.deps.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.dev.json
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.dll
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.pdb
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.dll
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matheusprcastanho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/RestEase.dll
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csprojAssemblyReference.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfoInputs.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfo.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CoreCompileInputs.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.MvcApplicationPartsAssemblyInfo.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.input.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.output.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorCoreGenerate.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cs
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CopyComplete
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Manifest.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.xml
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.dll
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.pdb
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.genruntimeconfig.cache
+/home/matheusprcastanho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Detail.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/appsettings.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.deps.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.dev.json
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.dll
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.pdb
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.dll
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/bin/Debug/netcoreapp3.1/RestEase.dll
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csprojAssemblyReference.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfoInputs.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfo.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CoreCompileInputs.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.MvcApplicationPartsAssemblyInfo.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.input.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.output.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorCoreGenerate.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Detail.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cs
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CopyComplete
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Manifest.cache
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.xml
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.dll
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.pdb
+/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/Debug/netcoreapp3.1/Projeto.genruntimeconfig.cache

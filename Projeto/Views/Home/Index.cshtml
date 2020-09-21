@@ -1,0 +1,29 @@
+﻿<head>
+
+    @model List<Projeto.Models.Proxy.RepositoriesProxy>  
+
+    @{ViewData["Title"] = "Meus Repositórios";}
+
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+
+</head>     
+
+
+
+<div id="repositorios">
+    <h2>Repositórios:</h2>   
+</div>
+
+@foreach (var item in Model)
+{
+
+    <div id="linkRepositorios">
+        <a href="@Url.Action("Detail",new{repo=item.Name})"> @item.Full_Name</a>
+     </div> 
+
+ }
+
+
+    
+
+

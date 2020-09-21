@@ -1,0 +1,59 @@
+﻿body{
+  background-image: url(../img/fitnessImagem.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+main{
+  background-color:rgba(255, 234, 46, 0.99);
+  position: relative;
+  margin-top: 30px;
+  padding: 20px;
+  height: 150px;
+  top:300px;
+  border-radius: 10px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+div {padding: 0px 30px; }
+
+#repositorios{
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  text-shadow: 1px -1px 1px #060606;
+}
+
+#linkRepositorios{
+  text-align: center;
+  margin-top: 10px;
+}
+
+main a{
+  color: green;
+  font-size: 20px;
+  font-weight:bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  
+ 
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(245, 244, 244);
+}
+
+footer a{
+  color: blue;
+}
+
+
+
+
