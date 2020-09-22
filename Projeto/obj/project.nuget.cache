@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LebL7SC/YUEJOtVdy135eG1BQmPD6Z91A3HLZvKyD7PVwWpULd42ztxdhwcrkLogENXJBOEHffnxux+tWmR0/Q==",
+  "dgSpecHash": "Qsx3rT+LA6OllWrONy5TZ4cpwmcaNBiMtDnrwsAL/oc/XRn0Rxu0Co3pkd/iB22Qx4xy8i5ZAwfCCHqtE6ihCg==",
   "success": true,
-  "projectFilePath": "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/Projeto.csproj",
+  "projectFilePath": "/home/matheusprcastanho/projetoW12/Projeto/Projeto.csproj",
   "expectedPackageFiles": [
     "/home/matheusprcastanho/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
     "/home/matheusprcastanho/.nuget/packages/restease/1.5.0/restease.1.5.0.nupkg.sha512"

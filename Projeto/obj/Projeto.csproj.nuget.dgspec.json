@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/Projeto.csproj": {}
+    "/home/matheusprcastanho/projetoW12/Projeto/Projeto.csproj": {}
   },
   "projects": {
-    "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/Projeto.csproj": {
+    "/home/matheusprcastanho/projetoW12/Projeto/Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/Projeto.csproj",
+        "projectUniqueName": "/home/matheusprcastanho/projetoW12/Projeto/Projeto.csproj",
         "projectName": "Projeto",
-        "projectPath": "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/Projeto.csproj",
+        "projectPath": "/home/matheusprcastanho/projetoW12/Projeto/Projeto.csproj",
         "packagesPath": "/home/matheusprcastanho/.nuget/packages/",
-        "outputPath": "/home/matheusprcastanho/Área de trabalho/projetoW12/Projeto/obj/",
+        "outputPath": "/home/matheusprcastanho/projetoW12/Projeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/matheusprcastanho/.nuget/NuGet/NuGet.Config"
